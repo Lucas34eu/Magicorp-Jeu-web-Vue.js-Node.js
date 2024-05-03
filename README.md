@@ -16,3 +16,7 @@ Modifiez le taux d'apparition des Magicarp rares en investissant dans des cannes
 
 #### Inventaire : 
 Consultez votre inventaire pour voir tous les Magicarp que vous avez pêchés. Vous pouvez vendre vos Magicarp pour gagner de l'argent virtuel et acheter des cannes à pêche plus performantes.
+
+
+
+Ce projet à été construit dans l'optique d'apprendre le vue.js
