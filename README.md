@@ -19,4 +19,4 @@ Consultez votre inventaire pour voir tous les Magicarp que vous avez pêchés. V
 
 
 
-Ce projet à été construit dans l'optique d'apprendre le vue.js
+##### Ce projet à été construit dans l'optique d'apprendre le vue.js
