@@ -1,5 +1,5 @@
 # Magicarp Fishing Game
-![Nom de l'image](Colorimetrie/color_analysis_report.png)
+![Nom de l'image](Front/src/assets/images/tigrer.png)
 
 ## Bienvenue dans le Magicarp Fishing Game !
 Ce jeu web vous plonge dans une aventure captivante de pêche de Magicarp. Attrapez des Magicarp générés aléatoirement en lançant votre ligne dans l'étang virtuel. 
