@@ -8,7 +8,7 @@ Le but est de collectionner les Magicarp les plus rares et les plus puissants po
 ## Fonctionnalités principales :
 #### Pêche de Magicarp : 
 Utilisez votre canne à pêche virtuelle pour attraper des Magicarp. Les Magicarp sont générés aléatoirement avec différentes raretés.
-
+ 
 #### Achat de Canne à Pêche : 
 Modifiez le taux d'apparition des Magicarp rares en investissant dans des cannes à pêche plus performantes. Chaque canne à pêche offre une amélioration des chances de pêcher des Magicarp rares.
 
